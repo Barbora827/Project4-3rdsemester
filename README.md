@@ -1,5 +1,5 @@
 # Project4-3rdsemester
-A final project of the 3rd semester - an IoT "Smart Home" system for reptiles with a website.
+A final project of the 3rd semester - an embedded "Smart Home" system for reptiles with a website.
 
 This is the code for a "Smart Home for reptiles" prototype which I co-developed. 
 
@@ -11,5 +11,7 @@ Once the temperature is in the correct range, it will keep it there.
 If the humidity is too high, the system will turn on a fan.
 
 The current conditions are displayed on a website and the user can manually adjust the range, turn off the automatic control alltogether or see warnings log. 
+
+I was in charge of developing the website for the prototype, establishing communication between Arduino and the website and making sure the system responds to user's actions.
 
 See https://www.youtube.com/watch?v=hjGQXgT-ots&ab_channel=Th%C3%B8gerAbildgaard for a demo. 
